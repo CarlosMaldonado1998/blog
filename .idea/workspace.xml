@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9edbb33c-22c1-49b3-b7de-49ef19799962" name="Default Changelist" comment="" />
+    <list default="true" id="9edbb33c-22c1-49b3-b7de-49ef19799962" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -147,7 +152,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606190422535</updated>
-      <workItem from="1606190424393" duration="894000" />
+      <workItem from="1606190424393" duration="2001000" />
+      <workItem from="1606255999980" duration="1580000" />
+      <workItem from="1606268716643" duration="588000" />
     </task>
     <servers />
   </component>
@@ -159,9 +166,9 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="647" y="113" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1606190934267" />
-    <state x="368" y="17" key="SettingsEditor" timestamp="1606190938537">
+    <state x="368" y="17" key="SettingsEditor" timestamp="1606256980401">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="368" y="17" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1606190938537" />
+    <state x="368" y="17" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1606256980401" />
   </component>
 </project>
